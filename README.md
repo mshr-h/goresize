@@ -1,4 +1,6 @@
-# Simple image resizing tool written in Golang
+# goresize
+
+Simple image resizing tool written in Golang
 
 ## Usage
 

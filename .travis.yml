@@ -1,0 +1,7 @@
+sudo: false
+language: go
+go:
+  - tip
+script:
+  - wget https://avatars3.githubusercontent.com/u/8973217 -o ma.png
+  - $HOME/gopath/bin/goresize -h 100 -w 100 -i ma.png -o ma_resized.png

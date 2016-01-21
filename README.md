@@ -1,4 +1,4 @@
-# goresize
+# goresize [![Build Status](https://travis-ci.org/mshr-h/goresize.svg?branch=master)](https://travis-ci.org/mshr-h/goresize)
 
 Simple image resizing tool written in Golang
 
